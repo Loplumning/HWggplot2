@@ -1,5 +1,6 @@
 ---
-title: "Homework ggplot"
+title: "Homework # 12 ggplot"
+author: yourIDHW8
 output: html_document
 ---
 
